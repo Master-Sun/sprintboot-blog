@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    # 指定使用的配置文件(可以简写)
+    active: dev
+
+
